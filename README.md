@@ -1,1 +1,1 @@
-# financasK is an app for learn a little about Kotlin
+# FinancasK is an app for learn a little about Kotlin
